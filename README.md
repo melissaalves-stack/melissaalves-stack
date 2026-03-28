@@ -1,6 +1,6 @@
 # Melissa Alves
 
-**Estudante de Ciência da Computação · Data Science & ML · 3º semestre**
+**Estudante de Ciência da Computação · Data Science & ML · 3º período**
 
 ---
 
@@ -16,6 +16,7 @@ visualização e modelos preditivos. Sempre aprendendo, sempre construindo.
 
 **Uso no dia a dia:**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,12 +24,11 @@ visualização e modelos preditivos. Sempre aprendendo, sempre construindo.
 
 **Aprendendo:**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
@@ -37,7 +37,7 @@ visualização e modelos preditivos. Sempre aprendendo, sempre construindo.
 | | |
 |---|---|
 | 🟢 **Focada em** | Data Science & ML |
-| 🟡 **Estudando** | Kaggle Learn · Python |
+| 🟡 **Estudando** | Kaggle Learn · Pandas |
 | 🎯 **Próximo objetivo** | 1º projeto de análise de dados |
 | 💼 **Aberta para** | Estágio · Projetos colaborativos |
 
