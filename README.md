@@ -1,8 +1,8 @@
 <!--
-  💜 PERFIL DE GITHUB — Melissa Alves 💜   (dark neon)
+  🌸 PERFIL DE GITHUB — Melissa Alves 🌸   (rosa + preto)
   COMO USAR: crie um repositório PÚBLICO chamado exatamente "melissaalves-stack"
   e coloque na RAIZ dele: este README.md e o arquivo banner.gif
-  (para a cobrinha, veja o snake.yml em .github/workflows/)
+  Para a cobrinha: crie .github/workflows/snake.yml (arquivo em anexo)
 -->
 
 <!-- ═══════════════  VÍDEO NO TOPO (sem texto por cima)  ═══════════════ -->
@@ -18,7 +18,7 @@
 # Melissa Alves
 
 <a href="https://www.linkedin.com/in/melissahoalves">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Oi%21%20Eu%20sou%20a%20Melissa%20%F0%9F%92%9C%3BPesquisadora%20de%20IA%20em%20formacao%3BFundadora%20da%20Liga%20de%20Computacao%20em%20Nuvem%3BSempre%20aprendendo%20algo%20novo%20%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2E88&center=true&vCenter=true&width=620&lines=Oi%21%20Eu%20sou%20a%20Melissa%20%F0%9F%92%97%3BPesquisadora%20de%20IA%20em%20formacao%3BFundadora%20da%20Liga%20de%20Computacao%20em%20Nuvem%3BCiencia%20aberta%20%26%20rigor%20cientifico%20%E2%9C%A8" alt="typing" />
 </a>
 
 </div>
@@ -26,16 +26,16 @@
 <br/>
 
 <!-- ═══════════════  SOBRE MIM  ═══════════════ -->
-## 👩‍💻 sobre mim
+## 🌸 Sobre Mim
 
-Oi! Sou a Melissa, estudante do **4º período** na **UNIFAL-MG** e apaixonada por inteligência artificial, computação em nuvem e por liderar projetos que fazem diferença. 💜
+Oi! Sou a Melissa, estudante do **4º período** na **UNIFAL-MG** e apaixonada por inteligência artificial, computação em nuvem e por liderar projetos que fazem diferença. 💗
 
 Gosto de aprender fazendo — e de compartilhar o que aprendo com outras pessoas. Quando não encontro o espaço que quero, eu crio (foi assim que nasceu minha liga acadêmica!). Bora trocar ideia sobre IA, cloud ou tecnologia em geral? ✨
 
 <br/>
 
-<!-- ═══════════════  O QUE EU FAÇO  ═══════════════ -->
-## 🎯 no que eu tô envolvida
+<!-- ═══════════════  ATUAÇÃO  ═══════════════ -->
+## 🎯 No Que Estou Envolvida
 
 <img align="left" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
@@ -44,7 +44,7 @@ Lidero iniciativas de time, transformando desafios do dia a dia em resultado de 
 
 <br clear="left"/>
 
-**👑 Presidente & fundadora — Liga Acadêmica de Computação em Nuvem (UNIFAL-MG)**
+**👑 Presidente & Fundadora — Liga Acadêmica de Computação em Nuvem (UNIFAL-MG)**
 Criei a liga do zero pra levar conhecimento de cloud a mais estudantes. Organizo, ensino e mantenho a galera animada.
 
 **🧠 Pesquisadora — Iniciação Científica em IA**
@@ -53,94 +53,111 @@ Foco em **Deep Learning** e **segmentação de imagens**, aplicando IA em proble
 <br/>
 
 <!-- ═══════════════  PROJETO EM DESTAQUE  ═══════════════ -->
-## 🌟 projeto em destaque
+## 🌟 Projeto em Destaque
 
-> ☁️ **awsfoundations** — criei esse repositório do zero pra **ensinar computação em nuvem de graça** pra galera da liga acadêmica. Aprender AWS não precisa ser caro nem complicado — e esse projeto é a prova disso. 💜
+> ☁️ **awscloudfoundations** — criei esse repositório do zero pra **ensinar computação em nuvem de graça** pra galera da liga acadêmica. Aprender AWS não precisa ser caro nem complicado — e esse projeto é a prova disso. 💗
 
 <div align="center">
-  <a href="https://github.com/melissaalves-stack/awsfoundations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=melissaalves-stack&repo=awsfoundations&hide_border=true&title_color=ff2e88&icon_color=a855f7&text_color=e0d0e8&bg_color=0d0d0d" alt="awsfoundations" />
+  <a href="https://github.com/melissaalves-stack/awscloudfoundations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=melissaalves-stack&repo=awscloudfoundations&hide_border=true&title_color=ff2e88&icon_color=ff5fa2&text_color=ffb3d1&bg_color=0d0d0d" alt="awscloudfoundations" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════════  STACK DO DIA A DIA  ═══════════════ -->
-## 🛠️ linguagens & ferramentas do dia a dia
+<!-- ═══════════════  JÁ DOMINO  ═══════════════ -->
+## ✅ Já Domino
 
-<div align="center">
+Coisas que já pratiquei de verdade, em projeto real:
 
+<p>
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=plotly&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=a855f7" />
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff2e88" />
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7" />
+<img src="https://img.shields.io/badge/Zenodo-0d0d0d?style=for-the-badge&logo=zenodo&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/ORCID-0d0d0d?style=for-the-badge&logo=orcid&logoColor=ff2e88" />
+</p>
 
-</div>
+- 🐍 **Python** — leio, escrevo e entendo código.
+- 🔀 **Git & GitHub** — versionamento, resolução de conflito master/main e push no fluxo.
+- 🧩 **Lógica de programação** e organização de projeto.
+- 🖼️ **Dados & imagens** — rodei o pipeline inteiro, entendendo entradas e saídas.
+- 🔬 **Rigor científico** — validação honesta, reprodutibilidade e caça a bugs (peguei o bug das máscaras! 🐛).
+- 🔓 **Ciência aberta** — dataset publicado no **Zenodo** com **DOI** e **ORCID**.
 
 <br/>
 
-<!-- ═══════════════  APRENDENDO AGORA  ═══════════════ -->
-## 🌱 aprendendo agora
+<!-- ═══════════════  TRABALHANDO  ═══════════════ -->
+## 🔨 No Que Estou Trabalhando
 
-<div align="center">
+Já encostei e estou ganhando fluência:
 
-<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=for-the-badge&logo=pytorchlightning&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Segmenta%C3%A7%C3%A3o%20de%20Imagens-0d0d0d?style=for-the-badge&logo=googlelens&logoColor=a855f7" />
+<p>
 <img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=ff2e88" />
+</p>
 
-</div>
+- 🤖 **Machine Learning** — Random Forest e métricas de avaliação (Dice, IoU, F1).
+- 👁️ **Visão Computacional** — segmentação e extração de features (cor + textura).
+- 🧪 **OpenCV · NumPy · scikit-learn** — usando na prática, ganhando fluência.
+- ✍️ **Escrita científica & inglês técnico** — através dos artigos do projeto.
+
+<br/>
+
+<!-- ═══════════════  ESTUDANDO  ═══════════════ -->
+## 📚 Estudando & Aprofundando
+
+No meu radar agora:
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=for-the-badge&logo=pytorchlightning&logoColor=ff2e88" />
+</p>
+
+- 🧠 **Deep Learning** — U-Net, YOLO e PyTorch (já implementados, dominando o treino).
+- 🔁 **Transfer learning** e **data augmentation**.
 
 <br/>
 
 <!-- ═══════════════  ESTATÍSTICAS  ═══════════════ -->
-## 📊 minhas estatísticas
+## 📊 Minhas Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissaalves-stack&show_icons=true&count_private=true&hide_border=true&title_color=ff2e88&icon_color=a855f7&text_color=e0d0e8&bg_color=0d0d0d" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaalves-stack&layout=compact&hide_border=true&title_color=ff2e88&text_color=e0d0e8&bg_color=0d0d0d" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=melissaalves-stack&show_icons=true&count_private=true&hide_border=true&title_color=ff2e88&icon_color=ff5fa2&text_color=ffb3d1&bg_color=0d0d0d" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaalves-stack&layout=compact&hide_border=true&title_color=ff2e88&text_color=ffb3d1&bg_color=0d0d0d" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melissaalves-stack&hide_border=true&background=0d0d0d&stroke=a855f7&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88&sideLabels=e0d0e8&currStreakNum=ffffff&sideNums=ffffff&dates=8a7a90" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=melissaalves-stack&hide_border=true&background=0d0d0d&stroke=ff2e88&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88&sideLabels=ffb3d1&currStreakNum=ffffff&sideNums=ffffff&dates=a86e85" alt="streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=melissaalves-stack&theme=algolia&no-frame=true&column=7&margin-w=10&title_color=ff2e88" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=melissaalves-stack&no-frame=true&column=7&margin-w=10&title_color=ff2e88&text_color=ff9ec4&background=0d0d0d&stroke=ff2e88" alt="trophies" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════  A COBRINHA DOS COMMITS  ═══════════════ -->
-## 🐍 a cobrinha comendo meus commits
+<!-- ═══════════════  COBRINHA  ═══════════════ -->
+## 🐍 A Cobrinha Comendo Meus Commits
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/output/github-snake.svg" />
-</picture>
+<img alt="snake" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/output/github-snake.svg" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════  CONTATO  ═══════════════ -->
-## 💌 vamos conversar?
+## 💌 Vamos Conversar?
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/melissahoalves">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=a855f7" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff2e88" alt="LinkedIn" />
 </a>
 <a href="mailto:melissa.alves@sou.unifal-mg.edu.br">
   <img src="https://img.shields.io/badge/E--mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff2e88" alt="E-mail" />
@@ -148,6 +165,6 @@ Foco em **Deep Learning** e **segmentação de imagens**, aplicando IA em proble
 
 <br/><br/>
 
-<em>💜 obrigada por passar por aqui — volte sempre! 💜</em>
+<em>🌸 Obrigada por passar por aqui — volte sempre! 🌸</em>
 
 </div>
