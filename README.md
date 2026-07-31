@@ -6,7 +6,7 @@
 
 <!-- ═══════════  BANNER  ═══════════ -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/banner.gif" alt="banner" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6e77b774-8590-4b2a-b3da-48218997ced0" />
 </div>
 
 <br/>
