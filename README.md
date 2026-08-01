@@ -1,6 +1,6 @@
 <!--
   Perfil — Melissa Alves  (rosa + preto)
-  Raiz do repo "melissaalves-stack": README.md, name.png, banner.gif
+  Raiz do repo "melissaalves-stack": README.md, name.png, banner.gif, trilha-cloud.png
   Cobrinha: .github/workflows/snake.yml
 -->
 
@@ -15,37 +15,55 @@
 
 <br/>
 
-<!-- ═══════════  LINGUAGENS & FERRAMENTAS (primeira seção)  ═══════════ -->
+<!-- ═══════════  LINGUAGENS & FERRAMENTAS  ═══════════ -->
 ## Linguagens & Ferramentas
 
-**Sólido**
+**Linguagens**
 
 <p>
 <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/C%2B%2B-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ff2e88" />
+</p>
+
+**Ambiente & Versionamento**
+
+<p>
 <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff2e88" />
 <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff2e88" />
 </p>
 
-**No dia a dia**
+**Cloud & Formação AWS**
 
 <p>
-<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Skill%20Builder-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Builder%20Center-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/SimuLearn-0d0d0d?style=for-the-badge&logo=amazonwebservices&logoColor=ff2e88" />
+</p>
+
+**Explorando na Pesquisa de IC** — ferramentas que uso na iniciação científica, ainda em consolidação
+
+<p>
 <img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=ff2e88" />
 <img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2e88" />
-</p>
-
-**Em aprofundamento**
-
-<p>
+<img src="https://img.shields.io/badge/SciPy-0d0d0d?style=for-the-badge&logo=scipy&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/scikit--image-0d0d0d?style=for-the-badge&logoColor=ff2e88" />
 <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=for-the-badge&logo=pytorchlightning&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Random%20Forest-0d0d0d?style=for-the-badge&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Segmenta%C3%A7%C3%A3o%20de%20Imagens-0d0d0d?style=for-the-badge&logo=googlelens&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/U--Net-0d0d0d?style=for-the-badge&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/YOLOv8-0d0d0d?style=for-the-badge&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Google%20Colab-0d0d0d?style=for-the-badge&logo=googlecolab&logoColor=ff2e88" />
 </p>
 
-**Pesquisa & Ciência Aberta**
+**Ciência Aberta**
 
 <p>
 <img src="https://img.shields.io/badge/Zenodo-0d0d0d?style=for-the-badge&logo=zenodo&logoColor=ff2e88" />
@@ -82,15 +100,8 @@ Deep Learning e segmentação de imagens aplicados a problemas reais.
 
 <div align="center">
   <a href="https://github.com/melissaalves-stack/awscloudfoundations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=melissaalves-stack&repo=awscloudfoundations&hide_border=true&title_color=ff2e88&icon_color=ff5fa2&text_color=ffb3d1&bg_color=0d0d0d" alt="awscloudfoundations" />
+    <img width="620" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/trilha-cloud.png" alt="awscloudfoundations — Trilha Cloud" />
   </a>
-</div>
-
-<br/>
-
-<!-- ═══════════  BANNER (agora mais abaixo)  ═══════════ -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/banner.gif" alt="banner" />
 </div>
 
 <br/>
@@ -99,14 +110,7 @@ Deep Learning e segmentação de imagens aplicados a problemas reais.
 ## Estatísticas
 
 <div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=melissaalves-stack&show_icons=true&count_private=true&hide_border=true&title_color=ff2e88&icon_color=ff5fa2&text_color=ffb3d1&bg_color=0d0d0d" alt="stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaalves-stack&layout=compact&hide_border=true&title_color=ff2e88&text_color=ffb3d1&bg_color=0d0d0d" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melissaalves-stack&hide_border=true&background=0d0d0d&stroke=ff2e88&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88&sideLabels=ffb3d1&currStreakNum=ffffff&sideNums=ffffff&dates=a86e85" alt="streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melissaalves-stack&hide_border=true&background=0d0d0d&stroke=ff2e88&ring=ff2e88&fire=ff2e88&currStreakLabel=ff2e88&sideLabels=ffb3d1&currStreakNum=ffffff&sideNums=ffffff&dates=a86e85" alt="streak" />
 </div>
 
 <br/>
@@ -135,4 +139,11 @@ Deep Learning e segmentação de imagens aplicados a problemas reais.
   <img src="https://img.shields.io/badge/E--mail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff2e88" alt="E-mail" />
 </a>
 
+</div>
+
+<br/>
+
+<!-- ═══════════  BANNER (no final)  ═══════════ -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/banner.gif" alt="banner" />
 </div>
