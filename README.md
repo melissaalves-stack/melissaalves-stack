@@ -1,24 +1,56 @@
 <!--
   Perfil — Melissa Alves  (rosa + preto)
-  Raiz do repo "melissaalves-stack": README.md, banner.gif, name.svg
+  Raiz do repo "melissaalves-stack": README.md, name.png, banner.gif
   Cobrinha: .github/workflows/snake.yml
 -->
 
-<!-- ═══════════  BANNER  ═══════════ -->
-<div align="center">
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6e77b774-8590-4b2a-b3da-48218997ced0" />
-</div>
-
-<br/>
-
 <!-- ═══════════  NOME  ═══════════ -->
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/name.svg" alt="Melissa Alves" />
+  <img width="500" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/name.png" alt="Melissa Alves" />
 
   <br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF2E88&center=true&vCenter=true&width=600&lines=Pesquisadora%20em%20Intelig%C3%AAncia%20Artificial%3BFundadora%20da%20Liga%20de%20Computa%C3%A7%C3%A3o%20em%20Nuvem%3BCi%C3%AAncia%20aberta%20e%20rigor%20cient%C3%ADfico" alt="typing" />
 </div>
+
+<br/>
+
+<!-- ═══════════  LINGUAGENS & FERRAMENTAS (primeira seção)  ═══════════ -->
+## Linguagens & Ferramentas
+
+**Sólido**
+
+<p>
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff2e88" />
+</p>
+
+**No dia a dia**
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2e88" />
+</p>
+
+**Em aprofundamento**
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=for-the-badge&logo=pytorchlightning&logoColor=ff2e88" />
+</p>
+
+**Pesquisa & Ciência Aberta**
+
+<p>
+<img src="https://img.shields.io/badge/Zenodo-0d0d0d?style=for-the-badge&logo=zenodo&logoColor=ff2e88" />
+<img src="https://img.shields.io/badge/ORCID-0d0d0d?style=for-the-badge&logo=orcid&logoColor=ff2e88" />
+</p>
 
 <br/>
 
@@ -56,42 +88,10 @@ Deep Learning e segmentação de imagens aplicados a problemas reais.
 
 <br/>
 
-<!-- ═══════════  STACK  ═══════════ -->
-## Linguagens & Ferramentas
-
-**Sólido**
-
-<p>
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff2e88" />
-</p>
-
-**No dia a dia**
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=for-the-badge&logo=opencv&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ff2e88" />
-</p>
-
-**Em aprofundamento**
-
-<p>
-<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0d0d0d?style=for-the-badge&logo=pytorchlightning&logoColor=ff2e88" />
-</p>
-
-**Pesquisa & Ciência Aberta**
-
-<p>
-<img src="https://img.shields.io/badge/Zenodo-0d0d0d?style=for-the-badge&logo=zenodo&logoColor=ff2e88" />
-<img src="https://img.shields.io/badge/ORCID-0d0d0d?style=for-the-badge&logo=orcid&logoColor=ff2e88" />
-</p>
+<!-- ═══════════  BANNER (agora mais abaixo)  ═══════════ -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/melissaalves-stack/melissaalves-stack/main/banner.gif" alt="banner" />
+</div>
 
 <br/>
 
