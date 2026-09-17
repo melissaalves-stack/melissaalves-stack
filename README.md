@@ -93,10 +93,15 @@ Deep Learning e segmentação de imagens aplicados a problemas reais.
 
 <br/>
 
-<!-- ═══════════  PROJETO  ═══════════ -->
-## Projeto em Destaque
+<!-- ═══════════  PROJETOS EM DESTAQUE  ═══════════ -->
+## Projetos em Destaque
 
-**awscloudfoundations** — repositório criado do zero para ensinar computação em nuvem de forma gratuita à liga acadêmica, tornando o aprendizado de AWS mais acessível.
+🔬 **[ic-biofilm-segmentation](https://github.com/melissaalves-stack/ic-biofilm-segmentation)** — Pesquisa de Iniciação Científica voltada para a segmentação e análise de imagens de biofilmes utilizando algoritmos de Inteligência Artificial e Aprendizado de Máquina.
+> 📊 **Dataset público no Zenodo:** [DOI: 10.5281/zenodo.21496449](https://doi.org/10.5281/zenodo.21496449)
+
+<br/>
+
+☁️ **[awscloudfoundations](https://github.com/melissaalves-stack/awscloudfoundations)** — Repositório criado do zero para ensinar computação em nuvem de forma gratuita à liga acadêmica, tornando o aprendizado de AWS mais acessível.
 
 <div align="center">
   <a href="https://github.com/melissaalves-stack/awscloudfoundations">
