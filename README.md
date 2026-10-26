@@ -40,7 +40,7 @@ Computer Science undergraduate at **UNIFAL-MG** (Brazil, 4th semester), working 
 <!-- ═══════════  RESEARCH & PROJECTS  ═══════════ -->
 ## 🔬 Research & Projects
 
-**[ic-biofilm-segmentation](https://github.com/melissaalves-stack/ic-biofilm-segmentation)** `Research · 2024–present`
+**[ic-biofilm-segmentation](https://github.com/melissaalves-stack/ic-biofilm-segmentation)** `Research · 2026–present`
 
 Deep learning pipeline for biofilm microscopy image segmentation — U-Net, YOLOv8, Random Forest applied to real lab data. Fully public, citable output under open science principles.
 
