@@ -25,7 +25,7 @@ Computer Science undergraduate at **UNIFAL-MG** (Brazil, 4th semester), working 
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 **Cloud & DevOps**
 
@@ -37,21 +37,18 @@ Computer Science undergraduate at **UNIFAL-MG** (Brazil, 4th semester), working 
 
 <br/>
 
-<!-- ═══════════  RESEARCH & PROJECTS  ═══════════ -->
-## 🔬 Research & Projects
+<!-- ═══════════  PROJECTS  ═══════════ -->
+## 🚀 Projects
 
-**[ic-biofilm-segmentation](https://github.com/melissaalves-stack/ic-biofilm-segmentation)** `Research · 2026–present`
+---
+### ☁️ [awscloudfoundations](https://github.com/melissaalves-stack/awscloudfoundations) `Education · Open Source · 19 ⭐`
 
-Deep learning pipeline for biofilm microscopy image segmentation — U-Net, YOLOv8, Random Forest applied to real lab data. Fully public, citable output under open science principles.
+Free AWS curriculum built from scratch for the **Academic Cloud League (LACEN) at UNIFAL-MG**. Zero-to-certification in Portuguese — no personal AWS account or credit card needed. Includes full Cloud Practitioner + AI Practitioner tracks, hands-on labs and community events.
 
-> 📊 Dataset · [DOI: 10.5281/zenodo.21496449](https://doi.org/10.5281/zenodo.21496449)  
-> 📄 Article · [DOI: 10.1016/j.dib.2026.113318](https://doi.org/10.1016/j.dib.2026.113318)
-
-<br/>
-
-**[awscloudfoundations](https://github.com/melissaalves-stack/awscloudfoundations)** `Education · Open Source`
-
-Free AWS curriculum built from scratch for the Academic Cloud League at UNIFAL-MG. Zero-to-certification learning path, open to all students.
+| | |
+|---|---|
+| 🌐 **Site** | [awsbuildersunifal.vercel.app](https://awsbuildersunifal.vercel.app) |
+| 🔧 **Content** | AWS Skill Builder · Builder Labs · SimuLearn |
 
 <div align="center">
   <a href="https://github.com/melissaalves-stack/awscloudfoundations">
@@ -61,11 +58,71 @@ Free AWS curriculum built from scratch for the Academic Cloud League at UNIFAL-M
 
 <br/>
 
+---
+
+### 🧫 [ic-biofilm-segmentation](https://github.com/melissaalves-stack/ic-biofilm-segmentation) `Research · IC · 2026–present`
+
+Deep learning pipeline for biofilm microscopy image segmentation. Applies **U-Net**, **YOLOv8** and **Random Forest** to real lab data as part of an undergraduate research project (Iniciação Científica). Fully public and citable under open science principles.
+
+| | |
+|---|---|
+| 📊 **Dataset** | [DOI: 10.5281/zenodo.21496449](https://doi.org/10.5281/zenodo.21496449) |
+| 📄 **Article** | [DOI: 10.1016/j.dib.2026.113318](https://doi.org/10.1016/j.dib.2026.113318) |
+| 🔧 **Stack** | Python · PyTorch · OpenCV · scikit-learn · YOLOv8 |
+
+---
+
+### 🌿 [Iara-Scientific-Agent](https://github.com/melissaalves-stack/Iara-Scientific-Agent) `AI Agent · Biodiversity`
+
+**Iara** — offline scientific co-pilot for documenting traditional Amazonian plant knowledge in the field. Android app + 3 AI agents (Taxonomist → SiBBr/GBIF, Geospatial, RAG Scientific) validate each field record. Curator approves and exports in Darwin Core format, with community consent built in.
+
+| | |
+|---|---|
+| 🌐 **Dashboard demo** | [melissaalves-stack.github.io/iara-scientific-agent](https://melissaalves-stack.github.io/iara-scientific-agent/) |
+| 🔧 **Stack** | Python · Kotlin (Jetpack Compose) · React/TypeScript · SiBBr · GBIF |
+
+---
+
+
+### 🎮 [algolab-br](https://github.com/melissaalves-stack/algolab-br) `EdTech · Interactive`
+
+Interactive algorithm visualizer for CS students. Pick an algorithm, give it an input, and watch each step play out — pause, rewind, step through. Covers sorting, search, trees, graphs and hash structures.
+
+| | |
+|---|---|
+| 🌐 **Live demo** | [algolab-br.vercel.app](https://algolab-br-j3vd-n1ryq8k5e-melissaalves-stacks-projects.vercel.app) |
+| 🔧 **Stack** | Python 3.12 · TypeScript · React |
+
+---
+
+### 🚀 [nasa-challenge](https://github.com/melissaalves-stack/nasa-challenge) `NASA Space Apps Challenge 2026`
+
+**AstroKatu** — behavioral health monitoring that travels with the crew. Built for the NASA Space Apps Challenge 2026 (Team Pindorama). Runs fully on-board with no Earth link required: wearable vitals + daily check-in → local LLM → YAML rules → surgeon's review queue. Uses real Inspiration4 astronaut blood panels from NASA's Open Science Data Repository.
+
+| | |
+|---|---|
+| 🌐 **Live prototype** | [nasa-challenge-five-rho.vercel.app](https://nasa-challenge-five-rho.vercel.app) |
+| 🎥 **Demo** | [youtube.com/watch?v=P_3E3ZMBsng](https://youtu.be/P_3E3ZMBsng) |
+| 🔧 **Stack** | Python · React · NASA OSDR API |
+
+---
+
+### 🪐 [corretor-cosmico](https://github.com/melissaalves-stack/corretor-cosmico) `AWS Serverless · Always-On Agent`
+
+A fully autonomous AWS agent that picks a real exoplanet from NASA's catalog every morning and delivers a real-estate listing written by AI — in the voice of an intergalactic real-estate agent. Built for the AWS Builder Center Weekend Agent Challenge. All numbers (distance, travel time) computed in auditable Python; LLM writes only the prose.
+
+| | |
+|---|---|
+| ⏰ **Trigger** | EventBridge Scheduler (daily, São Paulo timezone) |
+| 🧠 **Memory** | DynamoDB (never repeats a planet) |
+| 🔧 **Stack** | AWS Lambda · Amazon Bedrock (Nova Lite) · DynamoDB · SES · EventBridge |
+
+
 <!-- ═══════════  LEADERSHIP  ═══════════ -->
 ## 🌐 Leadership
 
-**Founder & President — Liga Acadêmica de Computação em Nuvem, UNIFAL-MG**  
-First cloud computing academic league at UNIFAL-MG. Free AWS curriculum, zero-to-cert path.
+**Founder & President — Liga Acadêmica de Computação em Nuvem (LACEN), UNIFAL-MG**  
+First cloud computing academic league at UNIFAL-MG. Free AWS curriculum, zero-to-cert path, open to all students.
 
 **SBG Leader — Amazon**  
 Leading team initiatives within the Amazon SBG program.
