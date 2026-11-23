@@ -83,18 +83,6 @@ Deep learning pipeline for biofilm microscopy image segmentation. Applies **U-Ne
 
 ---
 
-
-### 🎮 [algolab-br](https://github.com/melissaalves-stack/algolab-br) `EdTech · Interactive`
-
-Interactive algorithm visualizer for CS students. Pick an algorithm, give it an input, and watch each step play out — pause, rewind, step through. Covers sorting, search, trees, graphs and hash structures.
-
-| | |
-|---|---|
-| 🌐 **Live demo** | [algolab-br.vercel.app](https://algolab-br-j3vd-n1ryq8k5e-melissaalves-stacks-projects.vercel.app) |
-| 🔧 **Stack** | Python 3.12 · TypeScript · React |
-
----
-
 ### 🚀 [nasa-challenge](https://github.com/melissaalves-stack/nasa-challenge) `NASA Space Apps Challenge 2026`
 
 **AstroKatu** — behavioral health monitoring that travels with the crew. Built for the NASA Space Apps Challenge 2026 (Team Pindorama). Runs fully on-board with no Earth link required: wearable vitals + daily check-in → local LLM → YAML rules → surgeon's review queue. Uses real Inspiration4 astronaut blood panels from NASA's Open Science Data Repository.
